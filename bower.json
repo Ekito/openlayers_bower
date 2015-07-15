@@ -1,0 +1,22 @@
+{
+  "name": "dx_openlayers",
+  "version": "3.7.0",
+  "authors": [
+    "bert <bpoller@ekito.fr>"
+  ],
+  "description": "openlayer bower package",
+  "main": "ol.js",
+  "keywords": [
+    "openlayers",
+    "delair-tech"
+  ],
+  "license": "MIT",
+  "homepage": "delair-tech.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
